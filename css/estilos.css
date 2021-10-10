@@ -1,0 +1,195 @@
+/*reseteo de css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Etiquetas*/
+form fieldset button img{
+    height: 15px;
+    width: 25px;
+}
+p{
+    font-family: sans-serif;
+}
+h2{
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    margin-left: 2rem;
+    padding-top: 2rem;
+}
+h3{
+    text-decoration: underline;
+    text-transform: uppercase;
+    padding-bottom: 2rem;
+}
+footer{
+    background-color: silver;
+}
+body{
+    background-image: linear-gradient(to bottom, rgb(214, 202, 202), rgb(97, 91, 91));
+}
+table tr th{
+    border-color: crimson;
+    color: darkgoldenrod;   
+    background-color: black;
+    text-transform: uppercase;
+}
+table{
+    background-color: rgb(221, 216, 216);
+    margin-bottom: 2rem;
+}
+fieldset{
+    padding: 5px 25px 125px 25px ;
+    background-color: rgba(36, 43, 43, 0.445);
+}
+fieldset.nutri{
+    padding:2rem;
+    margin-bottom: 3rem;
+}
+/*Clases*/
+.img-size-vert{
+    width: 213px; 
+    height: 320px;
+}
+.img-size-hori{
+    width: 320px;
+    height:213px;
+}
+.lista-afuera{
+    list-style-position: outside;
+}
+.lista-adentro{
+    list-style-position: inside;
+}
+.none-dot{
+    list-style: none;
+}
+.contactos{
+    border: solid black 1px;
+    margin: 0rem 2rem 1rem 3rem ;
+    float: left;
+    padding: 20px 50px 232px 20px;
+    background-color: rgba(36, 43, 43, 0.445);
+}
+.horarios-direccion{
+    border: solid black 1px;
+    margin:0rem 1rem 1rem 2rem ;
+    float: left;
+    padding: 25px 25px 65px 50px ;
+    background-color: rgba(36, 43, 43, 0.445);
+}
+.protocolo{
+    display: block;
+    margin-top: 8rem;
+    margin-left: 24rem;
+    margin-bottom: 2rem;
+}
+.footer{
+    justify-content: space-evenly;
+    margin-left: 32rem;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    width: 15rem;
+}
+.img-hori-staff{
+    width: 320px;
+    height: 213px; 
+}
+.img-size-vert-pablo{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 1rem;
+}
+.img-size-hori-pablo{
+    width: 320px;
+    height: 213px;
+    margin-bottom: 3rem;
+}
+.img-size-hori-ignacio1{
+    width: 320px;
+    height: 213px;
+    margin-bottom: 1rem;
+}
+.img-size-hori-ignacio2{
+    width: 320px;
+    height: 213px;
+    margin-bottom: 6rem;
+}
+.img-size-vert-ronaldo{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 3rem 0rem 1rem;
+}
+.img-size-hori-anto{
+    width: 320px;
+    height: 213px;
+    margin: 4rem 1rem 0rem 1rem;
+}
+.img-size-hori-anto2{
+    width: 320px;
+    height: 213px;
+    margin: 2rem 1rem;
+}
+.img-size-hori-anto3{
+    width: 320px;
+    height: 213px;
+    margin: 0rem 1rem 4rem 1rem ;
+}
+.img-size-hori-ins2{
+    width: 480px;
+    height: 320px;
+    margin: 2rem 5rem 3rem 7rem;
+}
+.img-size-hori-ins3{
+    width: 480px;
+    height: 320px;
+    margin: 0rem 0rem 5rem 1rem ;
+}
+.img-size-hori-ins4{
+    width: 480px;
+    height: 320px;
+    margin: 2rem 5rem 0rem 4rem;
+}
+.img-size-hori-ins5{
+    width: 480px;
+    height: 320px;
+    margin: 0rem 0rem 3rem 2rem;
+}
+.center-table{
+    display: flex;
+    justify-content: center;
+}
+.tipografia-sans-serif{
+    font-family: 'Roboto', sans-serif;
+}
+.form-nutricion{
+    width: 55%;
+    height: 40rem;
+    margin-left: 2rem;
+}
+.nombre{
+    width: 30rem;
+}
+.email{
+    width: 31rem ;
+}
+.telefono{
+    width: 30rem;
+}
+.tipo-de-nutricion{
+width: 26rem;
+}
+.dias-entrenamiento-semanal{
+    width: 19rem;
+}
+.comentario{
+    width: 29rem;
+    padding-bottom: 7rem;
+}
+/*mixtos*/
+div.protocolo h3{
+    margin-left: 9rem;
+}

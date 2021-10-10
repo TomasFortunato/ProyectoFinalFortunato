@@ -1,0 +1,30 @@
+/*variables*/
+/*variables*/
+/*scss clases.html*/
+.comun, ul.none-dot li section.comun--cont-zumba, ul.none-dot li div.comun--cont-muaythai, ul.none-dot li div.comun--cont-crossfit {
+  padding: 1rem;
+  height: 100%;
+}
+
+ul.none-dot {
+  list-style: none;
+}
+
+ul.none-dot li section.comun--cont-zumba {
+  width: 37rem;
+  margin: 1rem;
+  background-color: rgba(36, 43, 43, 0.445);
+}
+
+ul.none-dot li div.comun--cont-muaythai {
+  width: 37rem;
+  margin: 2rem 20rem;
+  background-color: rgba(36, 43, 43, 0.445);
+}
+
+ul.none-dot li div.comun--cont-crossfit {
+  width: 37rem;
+  margin-left: 37rem;
+  background-color: rgba(36, 43, 43, 0.445);
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,25 @@
+.comun{
+    padding: 1rem;
+    height: 100%;
+}
+ul.none-dot{
+    list-style: none;
+      li section.comun--cont-zumba{
+          @extend.comun;
+          width: $ancho/2;
+          margin: 1rem;
+          background-color: $clases-bc;
+      }
+      li div.comun--cont-muaythai{
+          @extend.comun;
+          width: $ancho/2;
+          margin: 2rem 20rem;
+          background-color: $clases-bc;
+      }
+      li div.comun--cont-crossfit{
+           @extend.comun;
+           width: $ancho/2;
+           margin-left: 37rem;
+           background-color: $clases-bc;
+      }
+  }
