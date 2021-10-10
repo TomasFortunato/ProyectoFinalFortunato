@@ -72,6 +72,7 @@ fieldset.nutri{
     float: left;
     padding: 20px 50px 232px 20px;
     background-color: rgba(36, 43, 43, 0.445);
+
 }
 .horarios-direccion{
     border: solid black 1px;
@@ -85,6 +86,7 @@ fieldset.nutri{
     margin-top: 8rem;
     margin-left: 24rem;
     margin-bottom: 2rem;
+    float: left;
 }
 .footer{
     justify-content: space-evenly;
@@ -93,6 +95,7 @@ fieldset.nutri{
     display: flex;
     flex-direction: row;
     width: 15rem;
+    float: left;
 }
 .img-hori-staff{
     width: 320px;
@@ -193,3 +196,52 @@ width: 26rem;
 div.protocolo h3{
     margin-left: 9rem;
 }
+/*Media Querries*/
+@media only screen and (max-width:425px)
+{
+   main{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+        width: 23rem;
+    }
+    .contactos{
+        grid-column: 1;
+        grid-row: 1;
+        width: 23rem;
+        margin: 2rem 0.22rem -30rem 0.22rem;
+        height: 30rem;
+    }
+    .horarios-direccion{
+        grid-column: 1;
+        grid-row: 2;
+        margin: -2rem 0.22rem 2rem 0.22rem;
+        width: 23rem;
+    }
+    div.horarios-direccion img.img-size-hori{
+        width: 21rem;
+        margin: 1rem 0.22rem -2rem -2.2rem;
+    }
+    .protocolo{
+        grid-column: 1;
+        grid-row: 3;
+        margin-left: 23rem;
+        display: none;
+    }
+    .footer{
+        justify-content: space-evenly;
+        margin:0rem;
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        width: 18rem; 
+        float: none;
+    }
+    .horarios-mf1{
+        text-align: center;
+    }
+    .direccion-mf1{
+        text-align: center;
+    }
+}
+
