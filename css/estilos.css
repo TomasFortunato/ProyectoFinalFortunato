@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 /*Etiquetas*/
 form fieldset button img{
@@ -47,6 +48,10 @@ fieldset{
 fieldset.nutri{
     padding:2rem;
     margin-bottom: 3rem;
+}
+header{
+    display: flex;
+    flex-direction: column;
 }
 /*Clases*/
 .img-size-vert{
@@ -228,14 +233,15 @@ div.protocolo h3{
         margin-left: 23rem;
         display: none;
     }
-    .footer{
+    .footer {
         justify-content: space-evenly;
-        margin:0rem;
+        margin-left: 2.6rem;
         align-items: center;
         display: flex;
         flex-direction: row;
-        width: 18rem; 
+        width: 18rem;
         float: none;
+        padding: 0.2rem 0rem;
     }
     .horarios-mf1{
         text-align: center;
@@ -244,4 +250,44 @@ div.protocolo h3{
         text-align: center;
     }
 }
-
+@media only screen and (min-width:425px)  and (max-width:768px)
+{
+    .protocolo{
+        display: none;
+    }
+    .footer {
+        justify-content: space-evenly;
+        margin-left: 4.2rem;
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        width: 18rem;
+        float: none;
+        padding: 0.2rem 0rem;
+    }
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+    .contactos{
+        width: 24,56rem;
+        margin: 1rem;
+        height: 30rem;
+        flex: 1;
+    }
+    .horarios-direccion{
+        margin:1rem;
+        width: 24,56rem;
+        flex: 2;
+    }
+    div.horarios-direccion img.img-size-hori{
+        width: 21rem;
+        margin: 1rem 0.22rem -2rem -1.2rem;
+    }
+    .horarios-mf1{
+        text-align: center;
+    }
+    .direccion-mf1{
+        text-align: center;
+    }
+}
