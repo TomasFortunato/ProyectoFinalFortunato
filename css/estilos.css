@@ -111,6 +111,11 @@ header{
     height: 320px;
     margin: 0rem 1rem;
 }
+.img-size-vert-pablo1{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 1rem;
+}
 .img-size-hori-pablo{
     width: 320px;
     height: 213px;
@@ -200,6 +205,9 @@ width: 26rem;
 /*mixtos*/
 div.protocolo h3{
     margin-left: 9rem;
+}
+ul.lista-adentro.none-dot{
+    list-style: none;
 }
 /*Media Querries*/
 @media only screen and (max-width:320px)/*ok*/
@@ -543,4 +551,15 @@ section.contactos-horarios{
         float: none;
         padding: 0.2rem 0rem;
     }
+}
+@media only screen and (min-width:1440px){
+section.contactos-horarios{
+    margin-left: 4rem;
+}
+.protocolo{
+    margin-left: 28rem;
+}
+.footer{
+    margin-left: 36rem;
+}
 }
