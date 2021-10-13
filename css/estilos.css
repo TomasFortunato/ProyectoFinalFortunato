@@ -131,7 +131,22 @@ header{
     height: 213px;
     margin-bottom: 6rem;
 }
+.img-size-vert-flor{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 1rem;
+}
 .img-size-vert-ronaldo{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 3rem 0rem 1rem;
+}
+.img-size-vert-ronaldo2{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 3rem 0rem 1rem;
+}
+.img-size-vert-ronaldo3{
     width: 213px; 
     height: 320px;
     margin: 0rem 3rem 0rem 1rem;
@@ -252,6 +267,47 @@ section.contactos-horarios{
     margin-left: 0.5rem;
 }
 
+img.img-size-hori-pablo{
+    display: none;
+}
+img.img-size-vert-pablo1{
+    display: none;
+}
+img.img-size-vert-pablo{
+    margin-left: -0.5rem;
+}
+img.img-size-hori-ignacio1{
+    display: none;
+}
+img.img-size-hori-ignacio2{
+    display: none;
+}
+img.img-size-vert-flor{
+    display: none;
+}
+img.img-size-vert-ronaldo{
+    display: none;
+}
+img.img-size-vert-ronaldo2{
+    display: none;
+}
+img.img-size-vert-ronaldo3{
+    margin-left: -0.5rem;
+}
+img.img-size-hori-anto2{
+    display: none;
+}
+img.img-size-hori-anto3{
+    display: none;
+}
+img.img-size-hori-anto{
+    margin: 0rem 0rem 0rem -3rem;
+    width: 290px;
+    height: 213px;
+}
+section.center-table{
+    display: none;
+}
 }
 @media only screen and (min-width:321px) and (max-width:360px) /*ok*/
 {
@@ -300,6 +356,47 @@ section.contactos-horarios{
     section.contactos-horarios{
         margin-left: 0.5rem;
     }
+    img.img-size-hori-pablo{
+        display: none;
+    }
+    img.img-size-vert-pablo1{
+        display: none;
+    }
+    img.img-size-vert-pablo{
+        margin-left: 0.5rem;
+    }
+    img.img-size-hori-ignacio1{
+        display: none;
+    }
+    img.img-size-hori-ignacio2{
+        display: none;
+    }
+    img.img-size-vert-flor{
+        display: none;
+    }
+    img.img-size-vert-ronaldo{
+        display: none;
+    }
+    img.img-size-vert-ronaldo2{
+        display: none;
+    }
+    img.img-size-vert-ronaldo3{
+        margin-left: 0.5rem;
+    }
+    img.img-size-hori-anto2{
+        display: none;
+    }
+    img.img-size-hori-anto3{
+        display: none;
+    }
+    img.img-size-hori-anto{
+        margin: 0rem 0rem 0rem -1.5rem;
+        width: 290px;
+        height: 213px;
+    }
+    section.center-table{
+        display: none;
+    }
 }
 @media only screen and (min-width:361px) and (max-width:409px)/*ok*/
 {
@@ -344,6 +441,47 @@ div.horarios-direccion img.img-size-hori{
 }
 section.contactos-horarios{
     margin-left: 1rem;
+}
+img.img-size-hori-pablo{
+    display: none;
+}
+img.img-size-vert-pablo1{
+    display: none;
+}
+img.img-size-vert-pablo{
+    margin-left: 1rem;
+}
+img.img-size-hori-ignacio1{
+    display: none;
+}
+img.img-size-hori-ignacio2{
+    display: none;
+}
+img.img-size-vert-flor{
+    display: none;
+}
+img.img-size-vert-ronaldo{
+    display: none;
+}
+img.img-size-vert-ronaldo2{
+    display: none;
+}
+img.img-size-vert-ronaldo3{
+    margin-left: 1rem;
+}
+img.img-size-hori-anto2{
+    display: none;
+}
+img.img-size-hori-anto3{
+    display: none;
+}
+img.img-size-hori-anto{
+    margin: 0rem 0rem 0rem -1.5rem;
+    width: 290px;
+    height: 213px;
+}
+section.center-table{
+    display: none;
 }
 }
 @media only screen and (min-width:410px) and (max-width:425px)/*ok*/
@@ -394,8 +532,49 @@ section.contactos-horarios{
     .direccion-mf1{
         text-align: center;
     }
+    img.img-size-hori-pablo{
+        display: none;
+    }
+    img.img-size-vert-pablo1{
+        display: none;
+    }
+    img.img-size-vert-pablo{
+        margin-left: 2rem;
+    }
+    img.img-size-hori-ignacio1{
+        display: none;
+    }
+    img.img-size-hori-ignacio2{
+        display: none;
+    }
+    img.img-size-vert-flor{
+        display: none;
+    }
+    img.img-size-vert-ronaldo{
+        display: none;
+    }
+    img.img-size-vert-ronaldo2{
+        display: none;
+    }
+    img.img-size-vert-ronaldo3{
+        margin-left: 2rem;
+    }
+    img.img-size-hori-anto2{
+        display: none;
+    }
+    img.img-size-hori-anto3{
+        display: none;
+    }
+    img.img-size-hori-anto{
+        margin: 0rem;
+        width: 290px;
+        height: 213px;
+    }
+    section.center-table{
+        display: none;
+    }
 }
-@media only screen and (min-width:425px)  and (max-width:768px)/*ok*/
+@media only screen and (min-width:425px)  and (max-width:767px)/*ok*/
 {
     .protocolo{
         display: none;
@@ -435,6 +614,50 @@ section.contactos-horarios{
     }
     .direccion-mf1{
         text-align: center;
+    }
+    img.img-size-hori-pablo{
+        margin-left: -0.5rem;
+    }
+    img.img-size-vert-pablo1{
+        display: none;
+    }
+    img.img-size-vert-pablo{
+        display: none;
+    }
+    img.img-size-hori-ignacio1{
+        display: none;
+    }
+    img.img-size-hori-ignacio2{
+        margin-left: -0.5rem;
+        margin-bottom: 1rem;
+    }
+    img.img-size-vert-flor{
+        display: none;
+    }
+    img.img-size-vert-ronaldo{
+        margin: 0rem 0rem 1rem -3rem;
+        width: 190px;
+        height: 285px;
+    }
+    img.img-size-vert-ronaldo2{
+        display: none;
+    }
+    img.img-size-vert-ronaldo3{
+        margin:0rem 0rem 1rem 1rem;
+        width: 190px;
+        height: 285px;
+    }
+    img.img-size-hori-anto2{
+        display: none;
+    }
+    img.img-size-hori-anto3{
+        display: none;
+    }
+    img.img-size-hori-anto{
+        margin: 0rem 0rem 0rem -0.5rem;
+    }
+    section.center-table{
+        display: none;
     }
 }
 @media only screen and (min-width:768px)  and (max-width:1023px)/*ok*/
@@ -479,6 +702,47 @@ div.horarios-direccion img.img-size-hori{
     grid-column: 1;
     grid-row: 3;
     margin: 1rem 6.6rem ;
+}
+img.img-size-hori-pablo{
+    margin-left: -0.5rem;
+}
+img.img-size-vert-pablo1{
+    display: none;
+}
+/*img.img-size-vert-pablo{
+    
+}*/
+img.img-size-hori-ignacio1{
+    display: none;
+}
+img.img-size-hori-ignacio2{
+    margin-left: -0.5rem;
+    margin-bottom: 1rem;
+}
+img.img-size-vert-flor{
+    display: none;
+}
+img.img-size-vert-ronaldo{
+    margin: 0rem 0rem 1rem -3rem;
+    width: 190px;
+    height: 285px;
+}
+img.img-size-vert-ronaldo2{
+    display: none;
+}
+img.img-size-vert-ronaldo3{
+    margin:0rem 0rem 1rem 1rem;
+    width: 190px;
+    height: 285px;
+}
+img.img-size-hori-anto2{
+    display: none;
+}
+img.img-size-hori-anto3{
+    display: none;
+}
+img.img-size-hori-anto{
+    margin: 0rem 0rem 0rem -0.5rem;
 }
 }
 @media only screen and (min-width:950px) and (max-width:1025px)/*ok*/
