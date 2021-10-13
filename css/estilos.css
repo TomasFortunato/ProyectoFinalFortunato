@@ -131,7 +131,22 @@ header{
     height: 213px;
     margin-bottom: 6rem;
 }
+.img-size-vert-flor{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 1rem;
+}
 .img-size-vert-ronaldo{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 3rem 0rem 1rem;
+}
+.img-size-vert-ronaldo2{
+    width: 213px; 
+    height: 320px;
+    margin: 0rem 3rem 0rem 1rem;
+}
+.img-size-vert-ronaldo3{
     width: 213px; 
     height: 320px;
     margin: 0rem 3rem 0rem 1rem;
@@ -253,6 +268,47 @@ div.horarios-direccion img.img-size-hori{
 }
 section.contactos-horarios{
     margin-left: 0.5rem;
+}
+img.img-size-hori-pablo{
+    display: none;
+}
+img.img-size-vert-pablo1{
+    display: none;
+}
+img.img-size-vert-pablo{
+    margin-left: -0.5rem;
+}
+img.img-size-hori-ignacio1{
+    display: none;
+}
+img.img-size-hori-ignacio2{
+    display: none;
+}
+img.img-size-vert-flor{
+    display: none;
+}
+img.img-size-vert-ronaldo{
+    display: none;
+}
+img.img-size-vert-ronaldo2{
+    display: none;
+}
+img.img-size-vert-ronaldo3{
+    margin-left: -0.5rem;
+}
+img.img-size-hori-anto2{
+    display: none;
+}
+img.img-size-hori-anto3{
+    display: none;
+}
+img.img-size-hori-anto{
+    margin: 0rem 0rem 0rem -3rem;
+    width: 290px;
+    height: 213px;
+}
+section.center-table{
+    display: none;
 }
 }
 @media only screen and (min-width:321px) and (max-width:360px) /*ok*/
