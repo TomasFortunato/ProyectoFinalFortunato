@@ -206,9 +206,6 @@ width: 26rem;
 div.protocolo h3{
     margin-left: 9rem;
 }
-ul.lista-adentro.none-dot{
-    list-style: none;
-}
 /*Media Querries*/
 @media only screen and (max-width:320px)/*ok*/
 {
@@ -254,6 +251,7 @@ div.horarios-direccion img.img-size-hori{
 section.contactos-horarios{
     margin-left: 0.5rem;
 }
+
 }
 @media only screen and (min-width:321px) and (max-width:360px) /*ok*/
 {
