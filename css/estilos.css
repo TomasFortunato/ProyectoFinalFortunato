@@ -253,6 +253,47 @@ main{
     float: none;
     padding: 0.2rem 0rem;
 }
+.form-nutricion{
+    width: 19rem;
+    margin: 0.5rem;
+}
+.nombre{
+    width: 17rem;
+}
+main.nutricion{
+    padding-bottom: 1rem;
+}
+main.nutricion p{
+    margin-left: 1rem;
+}
+form.nutricion{
+    padding-bottom: 3rem;
+}
+fieldset.nutri{
+padding: 0.5rem;
+}
+.email{
+    width: 17rem;
+}
+.telefono{
+    width: 17rem;
+}
+.tipo-de-nutricion{
+    width: 17rem;   
+}
+.dias-entrenamiento-semanal{
+    width: 17rem;
+}
+.comentario{
+    width: 17rem;
+    padding-bottom: 1rem;
+}
+button.btn-secondary{
+    display: none;
+}
+/*ul.none-dot li section.comun--cont-zumba{
+
+}*/
 .horarios-mf1{
     text-align: center;
 }
@@ -360,6 +401,47 @@ main p.p-instalaciones{
         float: none;
         padding: 0.2rem 0rem;
     }
+    .form-nutricion{
+        width: 20rem;
+        margin-left: 1.3rem;
+        margin-top: -1rem;
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+    }
+    .nombre{
+        width: 17rem;
+    }
+    main.nutricion{
+        padding-bottom: 1rem;
+    }
+    main.nutricion p{
+        margin-left: 1rem;
+    }
+    form.nutricion{
+        padding-bottom: 3rem;
+    }
+    fieldset.nutri{
+    padding: 0.5rem;
+    }
+    .email{
+        width: 17rem;
+    }
+    .telefono{
+        width: 17rem;
+    }
+    .tipo-de-nutricion{
+        width: 17rem;   
+    }
+    .dias-entrenamiento-semanal{
+        width: 17rem;
+    }
+    .comentario{
+        width: 17rem;
+        padding-bottom: 1rem;
+    }
+    button.btn-secondary{
+        display: none;
+    }
     .horarios-mf1{
         text-align: center;
     }
@@ -462,6 +544,44 @@ main{
     margin: -2rem 1rem 2rem 0rem;
     width: 21.43rem;
     flex: 2;
+}
+.form-nutricion{
+    width: 21rem;
+    margin: 0rem 1.3rem 1rem 1.3rem;
+}
+.nombre{
+    width: 17rem;
+}
+main.nutricion{
+    padding-bottom: 1rem;
+}
+main.nutricion p{
+    margin-left: 1rem;
+}
+form.nutricion{
+    padding-bottom: 3rem;
+}
+fieldset.nutri{
+padding: 0.5rem;
+}
+.email{
+    width: 17rem;
+}
+.telefono{
+    width: 17rem;
+}
+.tipo-de-nutricion{
+    width: 17rem;   
+}
+.dias-entrenamiento-semanal{
+    width: 17rem;
+}
+.comentario{
+    width: 17rem;
+    padding-bottom: 1rem;
+}
+button.btn-secondary{
+    display: none;
 }
 .horarios-mf1{
     text-align: center;
@@ -577,6 +697,45 @@ main p.p-instalaciones{
         float: none;
         padding: 0.2rem 0rem;
     }
+.form-nutricion{
+    width: 23rem;
+    margin: 0rem 1.3rem 1rem 1.3rem;
+}
+.nombre{
+    width: 17rem;
+}
+main.nutricion{
+    flex: none;
+}
+main.nutricion p{
+    margin-left: 2rem;
+}
+form.nutricion{
+    padding-bottom: 1rem;
+}
+fieldset.nutri{
+padding: 0.5rem;
+margin-bottom: 0rem;
+}
+.email{
+    width: 18rem;
+}
+.telefono{
+    width: 17rem;
+}
+.tipo-de-nutricion{
+    width: 12.7rem;   
+}
+.dias-entrenamiento-semanal{
+    width: 5rem;
+}
+.comentario{
+    width: 21.3rem;
+    padding-bottom: 5rem;
+}
+button.btn-secondary{
+    display: none;
+}
     .horarios-mf1{
         text-align: center;
     }
@@ -773,6 +932,48 @@ main{
     width: 40rem;
     flex: 2;
 }
+.form-nutricion{
+    width: 40rem;
+    margin: 0rem 1.3rem 1rem 4rem;
+}
+.nombre{
+    width: 31rem;
+    margin-left: 1rem;
+}
+main.nutricion{
+    flex: none;
+}
+main.nutricion p{
+    margin-left: 2rem;
+}
+form.nutricion{
+    padding-bottom: 1rem;
+}
+fieldset.nutri{
+padding: 0.5rem 0rem 3rem 0.5rem;
+margin-bottom: 0rem;
+}
+.email{
+    width: 32rem;
+    margin-left: 1rem;
+}
+.telefono{
+    width: 31rem;
+    margin-left: 1rem;
+}
+.tipo-de-nutricion{
+    width: 27rem;  
+    margin-left: 1rem; 
+}
+.dias-entrenamiento-semanal{
+    width: 5rem;
+    margin-left: 1rem;
+}
+.comentario{
+    width: 28rem;
+    padding-bottom: 5rem;
+    margin-left: 1rem;
+}
 div.horarios-direccion img.img-size-hori{
     width: 21rem;
     margin: 1rem 0.22rem -2rem 6rem;
@@ -864,7 +1065,6 @@ section.contactos-horarios{
 .horarios-direccion{
     padding-right: 3rem;
     margin-right: 3rem;
-
 }
 .protocolo{
     flex: 2;
@@ -880,6 +1080,48 @@ section.contactos-horarios{
     width: 18rem;
     float: none;
     padding: 0.2rem 0rem;
+}
+.form-nutricion{
+    width: 40rem;
+    margin: 0rem 1.3rem 1rem 4rem;
+}
+.nombre{
+    width: 31rem;
+    margin-left: 1rem;
+}
+main.nutricion{
+    flex: none;
+}
+main.nutricion p{
+    margin-left: 2rem;
+}
+form.nutricion{
+    padding-bottom: 1rem;
+}
+fieldset.nutri{
+padding: 0.5rem 0rem 3rem 0.5rem;
+margin-bottom: 0rem;
+}
+.email{
+    width: 32rem;
+    margin-left: 1rem;
+}
+.telefono{
+    width: 31rem;
+    margin-left: 1rem;
+}
+.tipo-de-nutricion{
+    width: 27rem;  
+    margin-left: 1rem; 
+}
+.dias-entrenamiento-semanal{
+    width: 5rem;
+    margin-left: 1rem;
+}
+.comentario{
+    width: 28rem;
+    padding-bottom: 5rem;
+    margin-left: 1rem;
 }
 main.instalaciones{
 display: grid;
