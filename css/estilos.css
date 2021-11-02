@@ -367,6 +367,51 @@ img.img-size-hori-ins4{
 main p.p-instalaciones{
     margin: 1rem;
 }
+section.comun--cont-zumba{
+    width: 18rem !important;
+    margin: -1rem !important;
+}
+section.comun--cont-zumba iframe{
+    width: 17rem !important;
+    margin: -1rem  -1rem 1rem -0.5rem !important;
+}
+section.comun--cont-zumba p{
+    display: none !important;
+}
+section.comun--cont-zumba ul.none-dot{
+    margin-left: -2.5rem !important;
+}
+div.comun--cont-muaythai{
+    width: 18rem !important;
+    margin: 2rem -1rem !important;
+}
+div.comun--cont-muaythai iframe{
+    width: 17rem !important;
+    margin: -1rem  -1rem 1rem -0.5rem !important;
+}
+div.comun--cont-muaythai p{
+    display: none !important;
+}
+div.comun--cont-muaythai ul.none-dot{
+    margin-left: -2.5rem;
+}
+div.comun--cont-crossfit{
+    width: 18rem !important;
+    margin: 1rem -1rem !important;
+}
+div.comun--cont-crossfit iframe{
+    width: 17rem !important;
+    margin: 1rem  -1rem 1rem -0.5rem !important;
+}
+div.comun--cont-crossfit p{
+    display: none !important;
+}
+div.comun--cont-crossfit ul.none-dot{
+    margin-left: -2.5rem;
+}
+div.comun--cont-crossfit h3{
+    margin-bottom: -1rem;
+}
 }
 @media only screen and (min-width:321px) and (max-width:360px) /*ok*/
 {
@@ -559,6 +604,51 @@ main p.p-instalaciones{
     main p.p-instalaciones{
         margin: 1rem;
     }
+    section.comun--cont-zumba{
+        width: 20rem !important;
+        margin: -0.8rem !important;
+    }
+    section.comun--cont-zumba iframe{
+        width: 19rem !important;
+        margin: -1rem  -1rem 1rem -0.5rem !important;
+    }
+    section.comun--cont-zumba p{
+        display: none !important;
+    }
+    section.comun--cont-zumba ul.none-dot{
+        margin-left: -1rem !important;
+    }
+    div.comun--cont-muaythai{
+        width: 20rem !important;
+        margin: 2rem -0.8rem !important;
+    }
+    div.comun--cont-muaythai iframe{
+        width: 19rem !important;
+        margin: -1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-muaythai p{
+        display: none !important;
+    }
+    div.comun--cont-muaythai ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit{
+        width: 20rem !important;
+        margin: -0.8rem -0.8rem 0.5rem -0.8rem!important;
+    }
+    div.comun--cont-crossfit iframe{
+        width: 19rem !important;
+        margin: 1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-crossfit p{
+        display: none !important;
+    }
+    div.comun--cont-crossfit ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit h3{
+        margin-bottom: -1rem;
+    }
 }
 @media only screen and (min-width:361px) and (max-width:409px)/*ok*/
 {
@@ -699,6 +789,51 @@ img.img-size-hori-ins4{
 }
 main p.p-instalaciones{
     margin: 1rem;
+}
+section.comun--cont-zumba{
+    width: 22rem !important;
+    margin: -1.3rem !important;
+}
+section.comun--cont-zumba iframe{
+    width: 21rem !important;
+    margin: -1rem  -1rem 1rem -0.5rem !important;
+}
+section.comun--cont-zumba p{
+    display: none !important;
+}
+section.comun--cont-zumba ul.none-dot{
+    margin-left: -1rem !important;
+}
+div.comun--cont-muaythai{
+    width: 22rem !important;
+    margin: 3rem -1.3rem !important;
+}
+div.comun--cont-muaythai iframe{
+    width: 21rem !important;
+    margin: -1rem -1rem 1rem -0.5rem !important;
+}
+div.comun--cont-muaythai p{
+    display: none !important;
+}
+div.comun--cont-muaythai ul.none-dot{
+    margin-left: -1rem;
+}
+div.comun--cont-crossfit{
+    width: 22rem !important;
+    margin: -1.3rem -1.3rem 0.5rem -1.3rem!important;
+}
+div.comun--cont-crossfit iframe{
+    width: 21rem !important;
+    margin: 1rem -1rem 1rem -0.5rem !important;
+}
+div.comun--cont-crossfit p{
+    display: none !important;
+}
+div.comun--cont-crossfit ul.none-dot{
+    margin-left: -1rem;
+}
+div.comun--cont-crossfit h3{
+    margin-bottom: -1rem;
 }
 }
 @media only screen and (min-width:410px) and (max-width:425px)/*ok*/
@@ -994,6 +1129,51 @@ button.btn-secondary{
     main p.p-instalaciones{
         margin: 1rem;
     }
+    section.comun--cont-zumba{
+        width: 24rem !important;
+        margin: -0.7rem !important;
+    }
+    section.comun--cont-zumba iframe{
+        width: 23rem !important;
+        margin: -1rem  -1rem 1rem -0.5rem !important;
+    }
+    section.comun--cont-zumba p{
+        display: none !important;
+    }
+    section.comun--cont-zumba ul.none-dot{
+        margin-left: -1rem !important;
+    }
+    div.comun--cont-muaythai{
+        width: 24rem !important;
+        margin: 3rem -0.7rem !important;
+    }
+    div.comun--cont-muaythai iframe{
+        width: 23rem !important;
+        margin: -1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-muaythai p{
+        display: none !important;
+    }
+    div.comun--cont-muaythai ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit{
+        width: 24rem !important;
+        margin: -0.7rem -0.7rem 0.5rem -0.5rem!important;
+    }
+    div.comun--cont-crossfit iframe{
+        width: 23rem !important;
+        margin: 1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-crossfit p{
+        display: none !important;
+    }
+    div.comun--cont-crossfit ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit h3{
+        margin-bottom: -1rem;
+    }
 }
 @media only screen and (min-width:768px)  and (max-width:1023px)/*ok*/
 {
@@ -1138,6 +1318,42 @@ img.img-size-hori-ins4{
 main p.p-instalaciones{
     margin: 1rem;
 }
+section.comun--cont-zumba{
+    width: 42rem !important;
+    margin: 1rem !important;
+}
+section.comun--cont-zumba iframe{
+    width: 40rem !important;
+    margin: -1rem  -1rem 1rem 0rem !important;
+}
+section.comun--cont-zumba ul.none-dot{
+    margin-left: -1rem !important;
+}
+div.comun--cont-muaythai{
+    width: 42rem !important;
+    margin: 3rem 1rem !important;
+}
+div.comun--cont-muaythai iframe{
+    width: 40rem !important;
+    margin: -1rem -1rem 1rem 0rem !important;
+}
+div.comun--cont-muaythai ul.none-dot{
+    margin-left: -1rem;
+}
+div.comun--cont-crossfit{
+    width: 42rem !important;
+    margin: -1.2rem -1.2rem 0.5rem 1rem!important;
+}
+div.comun--cont-crossfit iframe{
+    width: 40rem !important;
+    margin: 1rem -1rem 1rem 0rem !important;
+}
+div.comun--cont-crossfit ul.none-dot{
+    margin-left: -1rem;
+}
+div.comun--cont-crossfit h3{
+    margin-bottom: -1rem;
+}
 }
 @media only screen and (min-width:950px) and (max-width:1025px)/*ok*/
 {
@@ -1242,6 +1458,42 @@ img.img-size-hori-ins4{
 }
 main p.p-instalaciones{
     margin: 1rem;
+}
+section.comun--cont-zumba{
+    width: 55rem !important;
+    margin: 2.5rem !important;
+}
+section.comun--cont-zumba iframe{
+    width: 50rem !important;
+    margin: -1rem  -1rem 1rem 1.5rem !important;
+}
+section.comun--cont-zumba ul.none-dot{
+    margin-left: -1rem !important;
+}
+div.comun--cont-muaythai{
+    width: 55rem !important;
+    margin: 3rem 2.5rem !important;
+}
+div.comun--cont-muaythai iframe{
+    width: 50rem !important;
+    margin: -1rem -1rem 1rem 1.5rem !important;
+}
+div.comun--cont-muaythai ul.none-dot{
+    margin-left: -1rem;
+}
+div.comun--cont-crossfit{
+    width: 55rem !important;
+    margin: -1.2rem -1.2rem 0.5rem 2.5rem!important;
+}
+div.comun--cont-crossfit iframe{
+    width: 50rem !important;
+    margin: 1rem -1rem 1rem 1.5rem !important;
+}
+div.comun--cont-crossfit ul.none-dot{
+    margin-left: -1rem;
+}
+div.comun--cont-crossfit h3{
+    margin-bottom: -1rem;
 }
 }
 @media only screen and (min-width:1026px){
