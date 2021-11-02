@@ -243,6 +243,11 @@ main{
     width: 19rem;
     flex: 2;
 }
+section.comun--cont-zumba{
+    width: 18rem !important;
+    margin: -1rem !important;
+
+}
 .footer {
     justify-content: space-evenly;
     margin-left: 1rem;
@@ -291,9 +296,6 @@ padding: 0.5rem;
 button.btn-secondary{
     display: none;
 }
-/*ul.none-dot li section.comun--cont-zumba{
-
-}*/
 .horarios-mf1{
     text-align: center;
 }
