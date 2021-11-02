@@ -246,7 +246,6 @@ main{
 section.comun--cont-zumba{
     width: 18rem !important;
     margin: -1rem !important;
-
 }
 .footer {
     justify-content: space-evenly;
@@ -392,6 +391,51 @@ main p.p-instalaciones{
         grid-row: 3;
         margin-left: 23rem;
         display: none;
+    }
+    section.comun--cont-zumba{
+        width: 20rem !important;
+        margin: -0.8rem !important;
+    }
+    section.comun--cont-zumba iframe{
+        width: 19rem !important;
+        margin: -1rem  -1rem 1rem -0.5rem !important;
+    }
+    section.comun--cont-zumba p{
+        display: none !important;
+    }
+    section.comun--cont-zumba ul.none-dot{
+        margin-left: -1rem !important;
+    }
+    div.comun--cont-muaythai{
+        width: 20rem !important;
+        margin: 2rem -0.8rem !important;
+    }
+    div.comun--cont-muaythai iframe{
+        width: 19rem !important;
+        margin: -1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-muaythai p{
+        display: none !important;
+    }
+    div.comun--cont-muaythai ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit{
+        width: 20rem !important;
+        margin: -0.8rem -0.8rem 0.5rem -0.8rem!important;
+    }
+    div.comun--cont-crossfit iframe{
+        width: 19rem !important;
+        margin: 1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-crossfit p{
+        display: none !important;
+    }
+    div.comun--cont-crossfit ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit h3{
+        margin-bottom: -1rem;
     }
     .footer {
         justify-content: space-evenly;
@@ -688,6 +732,51 @@ main p.p-instalaciones{
         grid-row: 3;
         margin-left: 23rem;
         display: none;
+    }
+    section.comun--cont-zumba{
+        width: 24rem !important;
+        margin: -1.2rem !important;
+    }
+    section.comun--cont-zumba iframe{
+        width: 23rem !important;
+        margin: -1rem  -1rem 1rem -0.5rem !important;
+    }
+    section.comun--cont-zumba p{
+        display: none !important;
+    }
+    section.comun--cont-zumba ul.none-dot{
+        margin-left: -1rem !important;
+    }
+    div.comun--cont-muaythai{
+        width: 24rem !important;
+        margin: 3rem -1.2rem !important;
+    }
+    div.comun--cont-muaythai iframe{
+        width: 23rem !important;
+        margin: -1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-muaythai p{
+        display: none !important;
+    }
+    div.comun--cont-muaythai ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit{
+        width: 24rem !important;
+        margin: -1.2rem -1.2rem 0.5rem -1.2rem!important;
+    }
+    div.comun--cont-crossfit iframe{
+        width: 23rem !important;
+        margin: 1rem -1rem 1rem -0.5rem !important;
+    }
+    div.comun--cont-crossfit p{
+        display: none !important;
+    }
+    div.comun--cont-crossfit ul.none-dot{
+        margin-left: -1rem;
+    }
+    div.comun--cont-crossfit h3{
+        margin-bottom: -1rem;
     }
     .footer {
         justify-content: space-evenly;

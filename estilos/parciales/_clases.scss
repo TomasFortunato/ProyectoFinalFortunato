@@ -6,7 +6,7 @@ ul.none-dot{
     list-style: none;
       li section.comun--cont-zumba{
           @extend.comun;
-          width: $ancho/2;
+          width: $ancho/2 ;
           margin: 1rem;
           background-color: $clases-bc;
       }
