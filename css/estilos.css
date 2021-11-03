@@ -154,7 +154,7 @@ header{
 .img-size-hori-anto{
     width: 320px;
     height: 213px;
-    margin: 4rem 1rem 0rem 1rem;
+    margin: 4rem 1rem 1rem 1rem;
 }
 .img-size-hori-anto2{
     width: 320px;
@@ -220,6 +220,13 @@ width: 26rem;
 /*mixtos*/
 div.protocolo h3{
     margin-left: 9rem;
+}
+div.horarios-direccion img.img-size-hori{
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+main.staff h2{
+    margin-bottom: 1rem;
 }
 /*Media Querries*/
 @media only screen and (max-width:320px)/*ok*/
