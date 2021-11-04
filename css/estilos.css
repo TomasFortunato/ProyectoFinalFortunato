@@ -238,6 +238,9 @@ main.nutricion p{
     margin-top: 1rem;
     margin-bottom: 0rem;
 }
+#E-mail{
+    margin-left: 1rem;
+}
 /*Media Querries*/
 @media only screen and (max-width:320px)/*ok*/
 {
